@@ -5,7 +5,7 @@ class Account{
   String? phoneNumber;
 
 
-  Account(this.id, this.username, this.phoneNumber);
+  Account(this.id, this.username, this.phoneNumber, this.image);
 
   @override
   bool operator ==(Object other) =>

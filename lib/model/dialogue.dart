@@ -6,4 +6,8 @@ class Dialogue{
   DateTime? lastMessageTimeStamp;
   int newMessageCount = 0;
 
+  Dialogue(this.account, this.lastMessage, this.lastMessageTimeStamp,
+      this.newMessageCount);
+
+
 }
