@@ -1,4 +1,4 @@
-# hanasu
+# Seven Socket Mobile  Client
 
 Instant Messaging Application
 
